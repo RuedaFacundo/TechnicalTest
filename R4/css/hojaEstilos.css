@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+}
+
+body {
+    background: #607D8B;
+    font-family: 'KoHo', sans-serif;
+}
+
+header{
+    width: 100%;
+    height: 40px; 
+    text-align: center;
+    padding-top: 15px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    color: white;
+    margin-bottom: 50px;
+}
+
+#section{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+#div_input{
+    width: 300px;
+}
+
+#div_datos {
+    width: 500px;
+    display: none;
+}
+
